@@ -1,0 +1,11 @@
+{
+    "files": [],
+    "zips": [
+        {
+            "targetPath": "c",
+            "title": "Game",
+            "source": "https://dnbwg.cdn.bcebos.com/emdosbox/jinyong.zip"
+        }
+    ],
+    "startExe": "play.bat"
+}

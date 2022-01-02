@@ -1,0 +1,15 @@
+{
+    "emulatorWASM": "https://dnbwg.cdn.bcebos.com/emularity-common/emulators/np2/np2-386.wasm",
+    "emulatorJS": "https://dnbwg.cdn.bcebos.com/emularity-common/emulators/np2/np2-386.js",
+    "nativeResolution": {
+        "width": 640,
+        "height": 400
+    },
+    "mountZip": [
+        {
+            "targetPath": "np2",
+            "title": "BIOS",
+            "source": "https://dnbwg.cdn.bcebos.com/emularity-common/emulators/np2/np2roms.zip"
+        }
+    ]
+}
